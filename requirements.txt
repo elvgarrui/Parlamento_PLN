@@ -1,0 +1,12 @@
+numpy
+matplotlib
+plotly
+pandas
+nltk
+spacy
+scattertext
+gensim
+wordcloud
+spanish_sentiment_analysis
+pyldavis
+
