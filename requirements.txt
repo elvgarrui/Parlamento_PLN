@@ -9,4 +9,6 @@ gensim
 wordcloud
 spanish_sentiment_analysis
 pyldavis
-
+string
+sklearn
+seaborn
